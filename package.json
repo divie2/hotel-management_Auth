@@ -1,0 +1,35 @@
+{
+  "name": "hotel-management-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divie2/hotel-management-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divie2/hotel-management-backend/issues"
+  },
+  "homepage": "https://github.com/divie2/hotel-management-backend#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "express": "^4.18.3",
+    "joi": "^17.12.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.3",
+    "stream-browserify": "^3.0.0",
+    "util": "^0.12.5",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
+    "xpress": "^2.4.6"
+  }
+}
